@@ -45,7 +45,7 @@ I'm a passionate technology professional with expertise in MERN-Stack. I love cr
 </div>
 
 <div align="center">
-  <h3>Database & Cloud</> <br>
+  <h3>Database & Cloud</> <br> <br>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,netlify,vercel&perline=5" />
 </div>
 
