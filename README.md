@@ -59,15 +59,15 @@ I'm a passionate technology professional with expertise in MERN-Stack. I love cr
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"> GitHub Analytics
 
-<div >
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=VighneshDevHub&show_icons=true&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="GitHub Stats" />
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VighneshDevHub&layout=compact&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-<div >
+<div align="center" >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VighneshDevHub&theme=transparent" alt="Profile Details" width="90%" />
 </div>
 
@@ -101,7 +101,7 @@ I'm a passionate technology professional with expertise in MERN-Stack. I love cr
 
 <div align="center">
   <a href="https://linkedin.com/in/vighneshsalunkhe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,twitter,gmail" width='100px' alt="socials" style="margin-right:10px" />
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter,gmail" width='150px' alt="socials" style="margin-right:10px" />
   </a>
 
  
