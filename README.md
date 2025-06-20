@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84ADFF,100:D4ADFC&height=150&section=header&text=Vighnesh%20Salunkhe&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84ADFF,100:D4ADFC&height=150&section=header&text=Vighnesh%20Salunkhe&fontSize=38&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%">
 
 </div>
 
@@ -63,16 +63,16 @@ I'm a passionate technology professional with expertise in MERN-Stack. I love cr
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25"> GitHub Analytics
 
-<div align="center">
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=VighneshDevHub&show_icons=true&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VighneshDevHub&layout=compact&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VighneshDevHub&theme=transparent" alt="Profile Details" width="100%" />
+<div >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VighneshDevHub&theme=transparent" alt="Profile Details" width="90%" />
 </div>
 
 </div>
@@ -81,16 +81,18 @@ I'm a passionate technology professional with expertise in MERN-Stack. I love cr
 
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="25"> Featured Projects
 
-<div align="center">
+<div>
  
   <a href="https://github.com/VighneshDevHub/NewsGuardAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VighneshDevHub&repo=NewsGuard-AI&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="Project 1" style="border: 2px solid  rgba(255, 255, 255, 0.1)" />
   </a>
-   <a href="https://github.com/VighneshDevHub/Unit-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VighneshDevHub&repo=Netflix-Clone&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="Project 2" style="border: 2px solid  rgba(255, 255, 255, 0.1)" />
-  </a>
+  
   <a href="https://github.com/VighneshDevHub/Netflix-Clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VighneshDevHub&repo=Unit-Converter-App&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="Project 3" style="border: 2px solid  rgba(255, 255, 255, 0.1)" />
+  </a>
+
+   <a href="https://github.com/VighneshDevHub/Unit-Converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VighneshDevHub&repo=Netflix-Clone&theme=transparent&hide_border=true&title_color=84ADFF&text_color=FFFFFF&icon_color=D4ADFC" alt="Project 2" style="border: 2px solid  rgba(255, 255, 255, 0.1)" />
   </a>
 </div>
 
@@ -103,7 +105,7 @@ I'm a passionate technology professional with expertise in MERN-Stack. I love cr
 
 <div align="center">
   <a href="https://linkedin.com/in/vighneshsalunkhe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,twitter,gmail" width='100' alt="LinkedIn" style="margin-right:10px" />
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter,gmail" width='100px' alt="socials" style="margin-right:10px" />
   </a>
 
  
