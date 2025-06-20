@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84ADFF,100:D4ADFC&height=200&section=header&text=Vighnesh%20Salunkhe&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Full Stack Developer &descAlignY=60&descSize=25" width="100%">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84ADFF,100:D4ADFC&height=200&section=header&text=Vighnesh%20Salunkhe&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlignY=60&descSize=25" width="100%">
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=4000&pause=1000&color=84ADFF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+I'm+%5BYour+Name%5D;Full+Stack+Developer;UI%2FUX+Designer;AI/ML Enthusiast+;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=4000&pause=1000&color=84ADFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Vighnesh+Salunkhe;Full+Stack+Developer;AI/ML+Enthusiast;Always+Learning,+Always+Growing" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
@@ -22,7 +24,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
-I'm a passionate technology professional with expertise in [Your Specialization]. I love creating elegant solutions to complex problems and am dedicated to continuous learning and improvement.
+I'm a passionate technology professional with expertise in MERN-Stack. I love creating elegant solutions to complex problems and am dedicated to continuous learning and improvement.
 
 - 🔭 I'm currently working on **Journey To Become Industry Ready!**
 - 🌱 I'm currently learning **AI/ML & Data Science**
@@ -37,22 +39,25 @@ I'm a passionate technology professional with expertise in [Your Specialization]
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="25"> Professional Skills
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Skills Banner">
+</p>
 
-<div align="center">
-  <h3>Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,ts,php,react,tailwindcss,nextjs,nodejs,express,django,flask&perline=7" />
-  
-  <h3>Database & Cloud</h3>
+<p align="center">
+  <strong>🧠 Languages & Frameworks</strong><br>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,ts,php,react,tailwind,nextjs,nodejs,express,django,flask&perline=7" />
+</p>
+
+<p align="center">
+  <strong>☁️ Databases & Cloud</strong><br>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,netlify,vercel&perline=5" />
-  
-  <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,gitlab,figma,ai,postman,anaconda,ps,arduino,idea,bootstrap,,&perline=7" />
-</div>
+</p>
 
-</div>
+<p align="center">
+  <strong>🛠️ Tools & Technologies</strong><br>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,gitlab,figma,ai,postman,anaconda,ps,arduino,idea,bootstrap&perline=7" />
+</p>
+
 
 <div style="background: rgba(255, 255, 255, 0.1); border-radius: 16px; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; margin: 20px 0;">
 
