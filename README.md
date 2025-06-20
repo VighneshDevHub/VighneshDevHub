@@ -9,10 +9,6 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200">
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=VighneshDevHub&style=for-the-badge&color=84ADFF&labelColor=1a1a1a" alt="Profile Views">
 </div>
 
@@ -40,7 +36,7 @@ I'm a passionate technology professional with expertise in MERN-Stack. I love cr
 ## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="25"> Professional Skills
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Skills Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" alt="Skills Banner">
 </p>
 
 <div align="center">
