@@ -20,14 +20,15 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
+
 I'm a passionate technology professional with expertise in MERN-Stack. I love creating elegant solutions to complex problems and am dedicated to continuous learning and improvement.
 
-- 🔭 I'm currently working on **Journey To Become Industry Ready!**
+- 🔭 I'm currently on **Journey To Become Industry Ready!**
 - 🌱 I'm currently learning **AI/ML & Data Science**
 - 👯 I'm looking to collaborate on **innovative projects**
 - 💬 Ask me about **Java,Python,JavaScript,C++,MERN-Stack**
 - 📫 How to reach me: **vighneshsalunkhe949@gmail.com**
-- 📄 Know about my experiences in Portfolio.
+- 📄 Know about my experiences in my Portfolio.
 
 </div>
 
